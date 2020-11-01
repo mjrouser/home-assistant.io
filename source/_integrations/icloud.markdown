@@ -23,7 +23,7 @@ It does require that your devices are registered with the [Find My](https://www.
 
 ## Setup the integration
 
-There is two ways to integrate iCloud in Home Assistant
+There are two ways to integrate iCloud in Home Assistant
 
 ### Via the frontend
 
